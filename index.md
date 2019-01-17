@@ -14,10 +14,10 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-`Google Play Services - https://play.google.com/about/play-terms.html
+Google Play Services - https://play.google.com/about/play-terms.html
 Crashlytics - https://try.crashlytics.com/terms/privacy-policy.pdf
 Firebase - https://firebase.google.com/support/privacy/
-`
+
 
 Log Data
 
